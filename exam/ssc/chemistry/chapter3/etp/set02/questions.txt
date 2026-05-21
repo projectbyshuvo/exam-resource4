@@ -1,0 +1,4 @@
+1 | What is the capital city of Bangladesh? | Chittagong | Dhaka | Sylhet | Khulna | Dhaka is the capital and largest city of Bangladesh.
+2 | Identify the correct formula for Ohm's Law. | V = I / R | P = V * I | V = I * R | R = V * I | Ohm's Law states that voltage equals current multiplied by resistance.
+5 | Which gas do plants primarily absorb during photosynthesis? | Oxygen | Nitrogen | Carbon Dioxide | Hydrogen | Plants take in Carbon Dioxide (CO2) and release Oxygen.
+6 | This is a pure text question test. What is 5 + 7? | 10 | 11 | 12 | 13 | Simple addition: 5 + 7 equals 12.
