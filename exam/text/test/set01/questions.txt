@@ -1,4 +1,4 @@
-1 | শ্রেণিবিভাজনের সর্বোচ্চ একক কোনটি? | প্রজাতি | বিভাগ | জগৎ | গণ | জগৎ
+1 | Write the correct electron configuration for an uncharged <b>Oxygen</b> atom. | 1s² 2s² 2p⁴ | 1s² 2s² 2p⁶ | 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>3</sup> | 1s² 2s³ 2p³ | Oxygen has an atomic number of 8. Watch the breakdown here: <div class="max-w-full my-4"><iframe class="w-full aspect-video rounded-xl border border-slate-700 shadow-md" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe></div>
 2 | উদ্ভিদ বিজ্ঞানের জনক কে? | লিউয়েন হুক | রবার্ট হুক | অ্যারিস্টটল | থিওফ্রাস্টাস | থিওফ্রাস্টাস
 3 | মানবেদেহে ক্ষুদ্রতম কোষ কোনটি? | শুক্রাণু | মটর নিউরন | মাইকোপ্লাজমা | অণুচক্রিকা | অণুচক্রিকা
 4 | নিচের কোনটি নিঃসৃত পদার্থ নয়? | Hormone | Pigment | Resin | Necter | Resin
